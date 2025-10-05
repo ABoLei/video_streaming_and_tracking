@@ -79,7 +79,7 @@ def test_with_tta(model, image, device, num_tta=5):
     tta_transforms = [
         transforms.RandomHorizontalFlip(p=1.0),
         transforms.RandomRotation(5),
-        transforms.RandomRotation(-5),
+        transforms.RandomRotation(10),
         transforms.ColorJitter(brightness=0.1),
     ]
     

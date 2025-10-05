@@ -1,6 +1,6 @@
 file_name,pred1,pred2,pred3,pred4,pred5
-img1.jpg,uneven bars,parallel bar,balance beam,basketball,table tennis
-img2.jpg,olympic wrestling,rugby,high jump,bowling,javelin
-img3.jpg,football,lacrosse,cricket,rugby,high jump
-img4.jpg,roller derby,rugby,football,basketball,lacrosse
-img5.jpg,high jump,jai alai,football,shot put,javelin
+img1.jpg,hurdles,nascar racing,table tennis,air hockey,weightlifting
+img2.jpg,hockey,wheelchair basketball,basketball,bowling,lacrosse
+img3.jpg,hurdles,lacrosse,air hockey,volleyball,weightlifting
+img4.jpg,lacrosse,wheelchair basketball,horse jumping,hockey,hurdles
+img5.jpg,hammer throw,lacrosse,air hockey,weightlifting,nascar racing
